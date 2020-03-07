@@ -1,0 +1,4 @@
+#Fri Mar 06 01:22:53 EST 2020
+base.0=/Users/ricardohinds/development/playground/dayCost/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
